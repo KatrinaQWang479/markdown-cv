@@ -1,88 +1,98 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Katrina Q. Wang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Katrina Q. Wang
+Ph.D. Student, Department of Sociology, University of Wisconsin-Madison
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="qwang479@wisc.edu">qwang479@wisc.edu</a>
+| <a href="https://twitter.com/KatrinaQWang2">Twitter: @ Katrina Q. Wang</a>
 </div>
 
 
-## Currently
+## Contact Information
 
-Standing on the shoulders of giants
+### Office Address
 
-### Specialized in
+7102C William H. Sewell Social Science Building, 1180 Observatory Drive, Madison, WI 53706
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Phone Number
 
+(608)977-4518
 
-### Research interests
+## Research Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Comparative-Historical Sociology, Economic Sociology, and Culture
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021 - now`
+__Department of Sociology, University of Wisconsin Madison__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Ph.D. Student in Sociology
 
-- Sizar
+`2018 - 2021`
+__National School of Development, Peking University__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- M.S. in Economics
 
-- Fellow
+`2014 - 2018`
+__Department of History and National School of Development, Peking University__
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- B.A. in History and Economics
 
 
 
-## Publications
+## Research Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2019` *Captains in the Dutch United East India Company: The Effects of External Hiring and Internal Promotion on Performance*
 
 
-## Occupation
+## Teaching Experience
 
-`1600`
-__Royal Mint__, London
+`2019 Fall` *Development Economics*, Undergraduate Level
 
-- Warden
-- Minted coins
+`2020 Spring` *Organization Theory*, Ph.D. Level
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2020 Spring` *Strategic Human Resource Management/People Analytics*, MBA Level
+
+`2020 Fall` *Introduction to Politics*, Undergraduate Level
+
+`2021 Spring` *Organization Theory*, Ph.D. Level
 
 
+## Conference Presentations
+
+`2018` [*An Analysis of Xi Feng Parties in the Northern Song Dynasty through Complex Network Algorithms*](http://www.dpi-proceedings.com/index.php/dtcse/article/view/27255) (with Qianying Liu, Wending Chen)
+
+`2019` [*A Community Detection Method Towards Analysis of Xi Feng Parties in the Northern Song Dynasty*](http://jaslli.org/files/proceedings/15_paclic33_postconf.pdf) (with Qianying Liu, Wending Chen, and Daisuke Kawahara)
+
+
+
+## Awards and Fellowships
+
+`2021` Graduate Fellowship granted by University of Wisconsin-Madison
+
+`2021` Scholarship ($5000) granted by Institute for Regional and International Studies at University of Wisconsin-Madison
+
+## Service/volunteer work
+
+I have contributed more than 1000 hours of volunteer work to my community or schools since I was 12. 
+
+## Professional Work Experience
+
+NA.
+
+## Language and Skills
+
+- Chinese (native), English
+- Stata, LaTeX
+- Theatrical Performances
+
+## References
+
+NA.
 
 <!-- ### Footer
 
