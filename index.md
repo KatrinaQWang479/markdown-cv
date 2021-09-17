@@ -13,13 +13,9 @@ Ph.D. Student, Department of Sociology, University of Wisconsin-Madison
 
 ## Contact Information
 
-### Office Address
+- Office Address: 7102C William H. Sewell Social Science Building, 1180 Observatory Drive, Madison, WI 53706
 
-7102C William H. Sewell Social Science Building, 1180 Observatory Drive, Madison, WI 53706
-
-### Phone Number
-
-(608)977-4518
+- Phone Number: (608)977-4518
 
 ## Research Interests
 
@@ -67,7 +63,6 @@ __Department of History and National School of Development, Peking University__
 `2018` [*An Analysis of Xi Feng Parties in the Northern Song Dynasty through Complex Network Algorithms*](http://www.dpi-proceedings.com/index.php/dtcse/article/view/27255) (with Qianying Liu, Wending Chen)
 
 `2019` [*A Community Detection Method Towards Analysis of Xi Feng Parties in the Northern Song Dynasty*](http://jaslli.org/files/proceedings/15_paclic33_postconf.pdf) (with Qianying Liu, Wending Chen, and Daisuke Kawahara)
-
 
 
 ## Awards and Fellowships
